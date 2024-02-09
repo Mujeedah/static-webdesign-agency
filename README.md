@@ -1,2 +1,2 @@
 # static-webdesign-agency
-This is thhe very first static Web Agency from Angela Yu's Course
+This is the very first static Web Agency from Angela Yu's Course
